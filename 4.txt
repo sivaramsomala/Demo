@@ -1,2 +1,7 @@
 Added the file from remote repository
+
 Editing the file from terminal
+
+
+This is editing from remote repo
+
