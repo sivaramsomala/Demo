@@ -1,5 +1,3 @@
 this is a 3rd file in git and editing after restoring the file
 
 this is to check the differnce in stagged 
-
-Checking whether the merge too is working or not
